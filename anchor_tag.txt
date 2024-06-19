@@ -1,0 +1,9 @@
+Anchor Element - <a>
+<a href="https://www.google.com" title="Visit Google.com" target="_blank">Click me</a>
+
+title -> details for website
+
+target -> _blank -> New window open
+          _parent -> same window open
+          _self -> default same page open
+          _top -> total page
