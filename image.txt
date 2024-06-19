@@ -1,0 +1,7 @@
+image tag
+
+<img src="www.google.com/images/branding/googlelogo/2x" width="100px" height="50px" alt="Google logo"> 
+
+
+<img src="../../image/google.com/images/branding/googlelogo/2x" width="100px" height="50px" alt="Google logo"> 
+
