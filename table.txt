@@ -1,0 +1,28 @@
+simple table format
+
+
+<table border="1">
+<tr>
+<th>Name</th>
+<th>Age</th>
+<th>country</th>
+</tr>
+
+<tr>
+<td>person1</td>
+<td>35</td>
+<tb>country1</td>
+</tr>
+
+<tr>
+<td>person2</td>
+<td>35</td>
+<tb>country2</td>
+</tr>
+<tr>
+<td>person3</td>
+<td>35</td>
+<tb>country3</td>
+</tr>
+
+</table>
