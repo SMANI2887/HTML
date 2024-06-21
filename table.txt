@@ -1,7 +1,7 @@
 simple table format
 
 
-<table border="1">
+<table border="1" style="border-collapse: collapse;" cellpadding="10">
 <tr>
 <th>Name</th>
 <th>Age</th>
